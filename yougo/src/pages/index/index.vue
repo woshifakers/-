@@ -1,6 +1,6 @@
 <template>
   <div>
-    首页
+    这是首页 一步一步来的
   </div>
 </template>
 <script>
